@@ -1,6 +1,6 @@
 {
 	"type": "Battery",
-    "name": "Thorium Battery",
+    "name": "Surge Alloy Battery",
 	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a regular Battery and a Thorium Battery.",
     "category": "power",
     "health": 320,
