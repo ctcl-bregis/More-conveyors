@@ -4,6 +4,7 @@
 	"description": "Stronger and faster than the standard Router.",
     "category": "distribution",
     "health": 200,
+    "speed": 16.0,
     "requirements": [
         {"item": "copper", "amount": 3},
         {"item": "thorium", "amount": 3}
