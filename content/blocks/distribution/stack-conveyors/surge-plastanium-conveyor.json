@@ -1,0 +1,19 @@
+{
+    "type": "StackConveyor",
+    "name": "Surge Plastanium Conveyor",
+    "description": "Faster than the Plastanium Conveyor",
+    "category": "distribution",
+    "health": 90,
+    "speed": 0.20,
+    "displayedSpeed": 25,
+    "requirements": [
+        {"item": "copper", "amount": 1},
+        {"item": "lead", "amount": 2},
+        {"item": "titanium", "amount": 2},
+        {"item": "plastanium", "amount": 2},
+        {"item": "surge-alloy", "amount": 1}
+    ],
+    "research": {
+      "parent": "plastanium-conveyor"
+    }
+}
