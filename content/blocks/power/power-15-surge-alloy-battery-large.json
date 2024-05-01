@@ -1,7 +1,7 @@
 {
 	"type": "Battery",
-    "name": "Large Thorium Battery",
-	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a Large Battery.",
+    "name": "Large Surge Alloy Battery",
+	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a Large Battery and a Large Thorium Battery.",
     "category": "power",
     "health": 2880,
     "size": 3,
@@ -10,11 +10,11 @@
       },
     "BuildVisibility": "shown",
     "requirements": [
-        {"item": "lead", "amount": 40},
-        {"item": "titanium", "amount": 20},
-        {"item": "silicon", "amount": 20},
-        {"item": "thorium", "amount": 30}
-        {"item": "surge-alloy", "amount": 30}
+        {"item": "lead", "amount": 120},
+        {"item": "titanium", "amount": 40},
+        {"item": "silicon", "amount": 40},
+        {"item": "thorium", "amount": 60}
+        {"item": "surge-alloy", "amount": 100}
     ],
     "research": "power-10-thorium-battery-large"
 }

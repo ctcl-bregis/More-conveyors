@@ -1,6 +1,6 @@
 {
 	"type": "StorageBlock",
-    "name": "Thorium Container",
+    "name": "Surge Alloy Container",
 	"description": "Stores a large amount of items of each type. Contents can be retrieved with an unloader.",
     "category": "effect",
     "health": 300,
@@ -9,7 +9,8 @@
 	"hasItems": true,
     "requirements": [
         {"item": "titanium", "amount": 50},
-        {"item": "thorium", "amount": 100}
+        {"item": "thorium", "amount": 100},
+        {"item": "surge-alloy", "amount": "100"}
     ],
     "research": "container"
 }

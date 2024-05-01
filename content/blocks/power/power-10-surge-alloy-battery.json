@@ -1,7 +1,7 @@
 {
 	"type": "Battery",
     "name": "Thorium Battery",
-	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a regular Battery.",
+	"description": "Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a regular Battery and a Thorium Battery.",
     "category": "power",
     "health": 320,
     "consumes": {
@@ -9,10 +9,10 @@
       },
     "BuildVisibility": "shown",
     "requirements": [
-        {"item": "copper", "amount": 5},
-        {"item": "lead", "amount": 20},
-        {"item": "thorium", "amount": 15},
-        {"item": "surge-alloy", "amount": 10}
+        {"item": "copper", "amount": 15},
+        {"item": "lead", "amount": 40},
+        {"item": "thorium", "amount": 30},
+        {"item": "surge-alloy", "amount": 60}
     ],
     "research": "power-10-thorium-battery"
 }
