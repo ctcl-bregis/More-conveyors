@@ -7,7 +7,8 @@
     "speed": 32.0,
     "requirements": [
         {"item": "copper", "amount": 3},
-        {"item": "thorium", "amount": 3}
+        {"item": "thorium", "amount": 3},
+        {"item": "surge-alloy", "amount": 3}
     ],
     "research": "distribution-surge-router"
 }
