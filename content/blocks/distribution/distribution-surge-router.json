@@ -1,0 +1,13 @@
+{
+    "type": "Router",
+    "name": "Surge Router",
+	"description": "Stronger and faster than the Armored Router.",
+    "category": "distribution",
+    "health": 400,
+    "speed": 32.0,
+    "requirements": [
+        {"item": "copper", "amount": 3},
+        {"item": "thorium", "amount": 3}
+    ],
+    "research": "distribution-surge-router"
+}
