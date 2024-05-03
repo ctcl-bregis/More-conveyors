@@ -5,6 +5,7 @@
     "category": "distribution",
     "health": 200,
     "buildCostMultiplier": 3,
+    "speed": 6,
     "requirements": [
         {"item": "copper", "amount": 2},
         {"item": "lead", "amount": 2},
