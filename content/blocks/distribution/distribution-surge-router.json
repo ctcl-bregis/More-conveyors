@@ -10,5 +10,5 @@
         {"item": "thorium", "amount": 3},
         {"item": "surge-alloy", "amount": 3}
     ],
-    "research": "distribution-surge-router"
+    "research": "distribution-armored-router"
 }
