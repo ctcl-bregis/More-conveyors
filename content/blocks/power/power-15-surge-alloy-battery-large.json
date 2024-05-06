@@ -16,5 +16,5 @@
         {"item": "thorium", "amount": 60}
         {"item": "surge-alloy", "amount": 100}
     ],
-    "research": "power-10-thorium-battery-large"
+    "research": "power-15-thorium-battery-large"
 }
